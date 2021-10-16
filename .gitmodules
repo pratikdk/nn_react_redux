@@ -1,0 +1,9 @@
+[submodule "06_basic_react_app/myapp"]
+	path = 06_basic_react_app/myapp
+	url = https://github.com/pratikdk/nn_rr_basic_react_app.git
+[submodule "07_todo_react_app/todo-app"]
+	path = 07_todo_react_app/todo-app
+	url = https://github.com/pratikdk/nn_rr_react_todoapp.git
+[submodule "08_poketimes_app/poketimes-app"]
+	path = 08_poketimes_app/poketimes-app
+	url = https://github.com/pratikdk/nn_rr_poketimes.git
